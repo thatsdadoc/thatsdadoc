@@ -14,7 +14,7 @@ __...--~~~~~-._   _.-~~~~~--...__
 `---`
 </pre>
 
-<p><strong>I'm Ali</strong>, and I enjoy working on projects that involve...</p>
+<p><strong>I'm Ali</strong>, I enjoy working on projects that involve...</p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Kurenaido&weight=900&size=38&letterSpacing=&duration=1400&pause=1700&color=DADADAF7&center=true&vCenter=true&width=435&height=45&lines=Game+Development;Web+Design;Audio+Production" alt="Typing SVG" /></a>
 <h2>Skills & Tools</h2>
 
