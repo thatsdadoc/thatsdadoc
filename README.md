@@ -18,7 +18,11 @@ __...--~~~~~-._   _.-~~~~~--...__
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Kurenaido&weight=900&size=38&letterSpacing=&duration=1400&pause=1700&color=DADADAF7&center=true&vCenter=true&width=435&height=45&lines=Game+Development;Web+Design;Audio+Production" alt="Typing SVG" /></a>
 <h2>Skills & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,obsidian,py,cs,html,css,godot,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,obsidian,py,bash,cs,html,css,godot,windows,ps)](https://skillicons.dev)<br>
+<a href="https://dashboardicons.com/icons/audacity"><img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/audacity.svg" alt="Audacity" width="48" height="48" /></a>
+<a href="https://dashboardicons.com/icons/fl-studio"><img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/png/fl-studio.png" alt="FL Studio" width="48" height="48" /></a>
+[![Skills](https://skills.syvixor.com/api/icons?i=krita)](https://github.com/syvixor/skills-icons)
+
 <h2>Contact</h2>
 <a href="mailto:thatsdadoc@gmail.com"><img src="https://img.shields.io/badge/Email-thatsdadoc%40gmail.com-222?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a><br>
 <a href="https://www.instagram.com/thatsdadoc"><img src="https://img.shields.io/badge/Instagram-%40thatsdadoc-222?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a><br>
